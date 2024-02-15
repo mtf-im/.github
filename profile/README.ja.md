@@ -1,4 +1,4 @@
-[简体中文](README.zh-cn.md) | [English](README.md) | [日本語](README.ja.md)
+[简体中文](profile/README.zh-cn.md) | [English](profile/README.md) | [日本語](profile/README.ja.md)
 
 # MtF.im
 
