@@ -1,4 +1,4 @@
-[简体中文](profile/README.zh-cn.md) | [English](profile/README.md) | [日本語](profile/README.ja.md)
+[简体中文](README.zh-cn.md) | [English](README.md) | [日本語](README.ja.md)
 
 # MtF.im
 
@@ -10,6 +10,3 @@
 
 私たちは、トランスジェンダー女性に安全なオンラインスペースソリューションを提供することを目指している組織です。
 
-## 私たちの使命
-
-*.mtf.imのサブドメインをトランスジェンダー女性と関連する組織に提供し、トランスジェンダーコミュニティに特化した様々なサービスを提供することを目指しています。
